@@ -41,11 +41,13 @@ h5,h6{
     background-size: cover;
 }
 
-
-
-.navbar .navbar-expand-lg .navbar-light{
-    position: fixed !important;
+.menu{
+    width: 100%;
+    position: relative;
+    background-color: rgba(255, 249, 243, 0.7);
+    z-index: 50;
 }
+
 .nav-link{
     font-size: 16px;
     font-weight: 700;
@@ -342,7 +344,7 @@ h5,h6{
 }
 /*
 ==================================================
-|   |   |   
+|   |   |   Footer Widget + Footer Section
 ==================================================
 */
 .footter-widget{
