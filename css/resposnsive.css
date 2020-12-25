@@ -78,6 +78,9 @@
     }
     
     /*========Footer Widget + Footer Section============*/
+    .widget{
+        padding: 50px 0px 10px;
+    }
     .widget-inner img{
         width: 80%;
     }
@@ -237,6 +240,9 @@
     }
     
     /*========Footer Widget + Footer Section============*/
+    .widget{
+        padding: 50px 0px 10px;
+    }
     .widget-inner {
         text-align: left;
         margin-bottom: 50px;
@@ -398,6 +404,9 @@
     }
     
     /*========Footer Widget + Footer Section============*/
+    .widget{
+        padding: 50px 0px 10px;
+    }
     .widget-inner{
         text-align: left;
         margin-bottom: 50px;
